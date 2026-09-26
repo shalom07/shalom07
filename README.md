@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/shalom07">
 <img src="https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.python.org/">
@@ -21,7 +21,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00d9ff&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=shalom07&style=flat-square&color=00d9ff&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -237,13 +237,13 @@ class Builder:
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=030712&title_color=00D9FF&icon_color=7C3AED&text_color=E5E7EB&rank_icon=github" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shalom07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=030712&title_color=00D9FF&icon_color=7C3AED&text_color=E5E7EB&rank_icon=github" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&hide_border=true&bg_color=030712&title_color=00D9FF&text_color=E5E7EB" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalom07&layout=compact&langs_count=8&hide_border=true&bg_color=030712&title_color=00D9FF&text_color=E5E7EB" width="40%" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=030712&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF" width="72%" />
+<img src="https://streak-stats.demolab.com?user=shalom07&theme=dark&hide_border=true&background=030712&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF" width="72%" />
 
 </div>
 
@@ -251,7 +251,7 @@ class Builder:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=030712&color=00D9FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=SHALOM%20JEREMIAH%20%E2%80%94%20DEVELOPMENT%20ACTIVITY" width="94%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shalom07&bg_color=030712&color=00D9FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=SHALOM%20JEREMIAH%20%E2%80%94%20DEVELOPMENT%20ACTIVITY" width="94%" />
 
 </div>
 
