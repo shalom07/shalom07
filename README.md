@@ -8,7 +8,7 @@ BUILDING WHAT'S NEXT. ⚡
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/shalom07">
 <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.python.org/">
@@ -23,107 +23,85 @@ BUILDING WHAT'S NEXT. ⚡
 
 </div>
 
-🧬 WHO I AM
+---
 
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│  SHALOM JEREMIAH                                                    │
-│  ───────────────────────────────────────────────────────────────    │
-│                                                                     │
-│  Software Developer        →  Building practical digital systems   │
-│  AI Builder                →  Exploring intelligent interfaces     │
-│  Entrepreneur               →  Turning technology into products     │
-│  Problem Solver             →  Finding systems behind problems      │
-│  Lifelong Learner           →  Always becoming a better builder     │
-│                                                                     │
-│  LOCATION  ::  Kenya 🇰🇪                                             │
-│  MISSION   ::  Build products that can scale beyond borders         │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-
-I don't want to just write code.
-
-I want to understand the problem, design the system, build the product, ship it, improve it — and eventually build companies around technology.
-
-⚡ THE STACK
+# 📊 `GITHUB // LIVE TELEMETRY`
 
 <div align="center">
 
-LANGUAGES
+### `SYSTEM STATUS: ONLINE` 🟢
 
-<img src="https://skillicons.dev/icons?i=python,php,js,html,css,sql" />
+<img src="https://img.shields.io/badge/COMMITS-ACTIVE-00D9FF?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/BUILDING-IN%20PROGRESS-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/STATUS-SHIPPING-00D9FF?style=for-the-badge&logo=rocket&logoColor=white" />
 
-FRAMEWORKS / ENGINEERING
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=django,tailwind,bootstrap,threejs,git,github,docker" />
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=7C3AED&text_color=E5E7EB&ring_color=00D9FF&rank_icon=github&include_all_commits=true" 
+  width="49%"
+/>
 
-ENVIRONMENT
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=E5E7EB&langs_count=8" 
+  width="42%"
+/>
 
-<img src="https://skillicons.dev/icons?i=linux,kali,pycharm,vscode,mysql,sqlite,postgres" />
+<br><br>
+
+<img 
+  src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=050816&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF" 
+  width="75%"
+/>
 
 </div>
 
-🚀 SELECTED BUILDS
+---
 
-🖥️ FLOWDESK
-
-Communication infrastructure for department teams.
-
-Messaging • Documents • Notifications • Manager controls • Activity tracking • Attendance workflows
-
-Python Django SQLite Tailwind
-
-🤖 JARVIS-OS
-
-An experimental AI voice assistant focused on natural computer interaction.
-
-Voice input • AI reasoning • Speech output • Desktop automation
-
-Python Gemini Audio AI
-
-🏢 QYNTRAVA
-
-A software venture focused on building modern digital products.
-
-SaaS • Business systems • Automation • AI-powered solutions
-
-Software AI SaaS
-
-🏠 GROT PROPERTY MANAGEMENT
-
-Property and rental management software designed for real-world business operations.
-
-Property management • Rentals • Documentation • Dashboard workflows
-
-PHP MariaDB SQLite Bootstrap
+## 🛰️ `DEVELOPER ACTIVITY`
 
 <div align="center">
 
-MORE BUILDS → MORE EXPERIMENTS → MORE SYSTEMS
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050816&color=00D9FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Shalom%20Jeremiah%20%E2%80%94%20Development%20Activity" 
+  width="95%"
+/>
 
 </div>
 
-🧠 ENGINEERING MINDSET
+---
 
-class Builder:
+## 🐍 `CONTRIBUTION MATRIX`
 
-    mission = "Create useful technology"
-    philosophy = "Build > Talk"
-    standard = "World-class"
-    mindset = "Long-term"
-    direction = "Global"
+<div align="center">
 
-    def ship(self, idea):
-        prototype = build(idea)
-        feedback = test(prototype)
-        product = improve(prototype, feedback)
-        return deploy(product)
+<img 
+  src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" 
+  alt="GitHub contribution snake"
+  width="95%"
+/>
 
-My rule:
+</div>
 
-Don't wait until you're ready. Build until you're better.
+---
 
-📊 GITHUB // LIVE TELEMETRY
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    DEVELOPER TELEMETRY                     ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   CODE        ████████████████████████████████   ACTIVE      ║
+║   AI          ███████████████████████████░░░░░   BUILDING    ║
+║   PRODUCTS    █████████████████████████████░░░   SHIPPING    ║
+║   LEARNING    ████████████████████████████████   ALWAYS      ║
+║                                                              ║
+║   STATUS      ::  BUILDING THE NEXT SYSTEM                   ║
+║   MODE        ::  LONG-TERM                                  ║
+║   DIRECTION   ::  GLOBAL 🌍                                  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 
 <div align="center">
 
